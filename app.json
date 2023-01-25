@@ -1,1 +1,27 @@
-{"Encoding":{"BodyName":"utf-16","EncodingName":"Unicode","HeaderName":"utf-16","WebName":"utf-16","WindowsCodePage":1200,"IsBrowserDisplay":false,"IsBrowserSave":true,"IsMailNewsDisplay":false,"IsMailNewsSave":false,"IsSingleByte":false,"EncoderFallback":{"DefaultString":"�","MaxCharCount":1},"DecoderFallback":{"DefaultString":"�","MaxCharCount":1},"IsReadOnly":true,"CodePage":1200},"FormatProvider":"en-AU","NewLine":"\r\n"}
+﻿{
+  "episodes": [
+    {
+      "id": "BrekkyMonday",
+      "seriesId": "Brekky",
+      "title": "Sonshine's Kirste and Dan - Monday",
+      "description": "Join Kirste and Dan for Breakfast!",
+      "images": [
+        {
+          "url": "https://98five.com/wp-content/uploads/2023/01/KD_Square.jpg",
+          "type": "square",
+          "width": "1280",
+          "height": "1280"
+        },
+        {
+          "url": "https://98five.com/wp-content/uploads/2023/01/KD_Widescreen.png",
+          "type": "widescreen",
+          "width": "1280",
+          "height": "800"
+        }
+      ],
+      "starttime": "2023-01-30T06:00:00+00:00",
+      "endtime": "2023-01-30T09:00:00+00:00",
+      "duration": "03:00:00"
+    }
+  ]
+}
