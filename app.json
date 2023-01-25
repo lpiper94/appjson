@@ -2,21 +2,21 @@
   "episodes": [
     {
       "id": "BrekkyMonday",
-      "seriesId": "Brekky",
+      "seriesId": "1",
       "title": "Sonshine's Kirste and Dan - Monday",
       "description": "Join Kirste and Dan for Breakfast!",
       "images": [
         {
           "url": "https://98five.com/wp-content/uploads/2023/01/KD_Square.jpg",
           "type": "square",
-          "width": "1280",
-          "height": "1280"
+          "width": 1280,
+          "height": 1280
         },
         {
           "url": "https://98five.com/wp-content/uploads/2023/01/KD_Widescreen.png",
           "type": "widescreen",
-          "width": "1280",
-          "height": "800"
+          "width": 1280,
+          "height": 800
         }
       ],
       "starttime": "2023-01-29T22:00:00+00:00",
