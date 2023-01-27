@@ -24,4 +24,13 @@
       "duration": "03:00:00"
     }
   ]
+   "programmes": [
+    {
+    "id": "bc96a2a0dfcd4348a2e0c1b067a947df",
+    "seriesId": "1",
+    "title": "Brekky",
+    "description": "It's Kirste and Dan",
+    "imageUrl": "http://two.aimdata.com/resources/sevenwest/images/defaultsydney7-blank.jpg"
+    }    
+    ]
 }
