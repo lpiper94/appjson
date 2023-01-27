@@ -1,0 +1,58 @@
+{
+    "episodes": [
+    {
+    "id": "uKvou3eJltaPmdaJ",
+    "seriesId": "123456",
+    "title": "Sunrise",
+    "description": "Wake up to a better breakfast with Samantha Armytage and David Koch for all the latest news, sport and weather.",
+    "imageUrl": "http://two.aimdata.com/resources/sevenwest/images/defaultsydney7-blank.jpg",
+    "images": [
+    {
+    "url": "https://www.imageurl.com/rectangular_image.jpg",
+    "type": "widescreen",
+    "width": 1280,
+    "height": 800
+    },
+    {
+    "url": "https://www.imageurl.com/square_image.jpg",
+    "type": "square",
+    "width": 1280,
+    "height": 1280
+    }
+    ],
+    "programmeId": "bc96a2a0dfcd4348a2e0c1b067a947df",
+    "startTime": "2023-01-30T16:00:00+00:00",
+    "endTime": "2023-01-31T19:00:00+00:00",
+    "duration": "03:00:00",
+    "catchupAudioUrl":
+   "https://www.mediacollege.com/audio/tone/files/440Hz_44100Hz_16bit_30sec.mp3",
+    "catchupAudioMimeType" : "audio/mpeg"
+    },
+    {
+    "id": "veKtuMeKltaPmdeP",
+    "seriesId": "123459",
+    "title": "The Morning Show Summer Series",   
+    "description": "Join Larry Emdur and Kylie Gillies each morning for a variety of segments on the latest news, entertainment and other hot topics.",
+    "imageUrl": "http://two.aimdata.com/resources/sevenwest/images/defaultsydney7-blank.jpg",
+    "programmeId": "57fc71afbbc7412a8ac7164d786c61cc",
+    "startTime": "2023-01-30T19:00:00+00:00",
+      "endTime": "2023-01-31T22:00:00+00:00",
+    "duration": "02:30:00"
+    }
+    ],
+    "programmes": [
+    {
+    "id": "bc96a2a0dfcd4348a2e0c1b067a947df",
+    "seriesId": "123456",
+    "title": "Sunrise",
+    "description": "Wake up to a better breakfast with Samantha Armytage and David Koch for all the latest news, sport and weather.",
+    "imageUrl": "http://two.aimdata.com/resources/sevenwest/images/defaultsydney7-blank.jpg"
+    },
+    {
+    "id": "57fc71afbbc7412a8ac7164d786c61cc",
+    "seriesId": "123459",
+    "title": "The Morning Show Summer Series",
+    "description": "Join Larry Emdur and Kylie Gillies each morning for a variety of segments on the latest news, entertainment and other hot topics."
+    }
+    ]
+   }
