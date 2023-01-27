@@ -9,22 +9,22 @@
         {
           "url": "https://98five.com/wp-content/uploads/2023/01/KD_Square.jpg",
           "type": "square",
-          "width": 1280,
-          "height": 1280
+          "width": "1280",
+          "height": "1280"
         },
         {
           "url": "https://98five.com/wp-content/uploads/2023/01/KD_Widescreen.png",
           "type": "widescreen",
-          "width": 1280,
-          "height": 800
+          "width": "1280",
+          "height": "800"
         }
       ],
-      "starttime": "2023-01-29T22:00:00+00:00",
-      "endtime": "2023-01-30T01:00:00+00:00",
+      "starttime": "2023-01-30T06:00:00+00:00",
+      "endtime": "2023-01-30T09:00:00+00:00",
       "duration": "03:00:00"
     }
   ],
-   "programmes": [
+  "programmes": [
     {
     "id": "bc96a2a0dfcd4348a2e0c1b067a947df",
     "seriesId": "1",
