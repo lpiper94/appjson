@@ -1,0 +1,28 @@
+{
+    "episodes": [
+        {
+            "id": "uKvou3eJltaPmdaJ",
+            "seriesId": "123456",
+            "title": "Sonshine's Kirste and Dan",
+            "description": "Wake up to a better breakfast with Sonshine's Kirste and Dan",            
+            "images": [
+                {
+                  "url": "https://98five.com/wp-content/uploads/2023/01/KD_Square.jpg",
+                  "type": "square",
+                  "width": 1280,
+                  "height": 1280
+                },
+                {
+                  "url": "https://98five.com/wp-content/uploads/2023/01/KD_Widescreen.png",
+                  "type": "widescreen",
+                  "width": 1280,
+                  "height": 800
+                }
+              ],
+            "programmeId": "bc96a2a0dfcd4348a2e0c1b067a947df",
+            "startTime": "2023-01-30T19:00:00+00:00",
+            "endTime": "2023-01-31:00:00+00:00",
+            "duration": "03:00:00"            
+        }        
+    ]
+    }
