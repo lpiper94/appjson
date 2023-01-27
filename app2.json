@@ -1,0 +1,408 @@
+﻿{
+  "episodes": [
+    {
+      "id": "BrekkyToday",
+      "seriesId": "Brekky",
+      "title": "Sonshine's Kirste and Dan - NEW",
+      "description": "Join Kirste and Dan for Breakfast!",
+      "images": [
+        {
+          "url": "https://98five.com/wp-content/uploads/2023/01/KD_Square.jpg",
+          "type": "square",
+          "width": 1280,
+          "height": 1280
+        },
+        {
+          "url": "https://98five.com/wp-content/uploads/2023/01/KD_Widescreen.png",
+          "type": "widescreen",
+          "width": 1280,
+          "height": 800
+        }
+      ],
+      "programmeId": "bc96a2a0dfcd4348a2e0c1b067a947df",
+      "startTime": "2023-01-27T06:00:00+08:00",
+      "endTime": "2023-01-27T09:00:00+08:00",
+      "duration": "03:00:00"
+    },
+    {
+      "id": "DriveMonday",
+      "seriesId": "Drive",
+      "title": "Sonshine's Bec and Jeziel - NEW",
+      "description": "Join Bec and Jeziel for the Drive home",
+      "images": [
+        {
+          "url": "https://98five.com/wp-content/uploads/2023/01/BJ_Square.jpg",
+          "type": "square",
+          "width": 1280,
+          "height": 1280
+        },
+        {
+          "url": "https://98five.com/wp-content/uploads/2023/01/BJ_Widescreen.png",
+          "type": "widescreen",
+          "width": 1280,
+          "height": 800
+        }
+      ],
+      "programmeId": "sdwbj23",
+      "startTime": "2023-01-27T15:00:00+08:00",
+      "endTime": "2023-01-27T18:00:00+08:00",
+      "duration": "03:00:00"
+    },
+    {
+      "id": "Table Talk Monday",
+      "seriesId": "Table Talk",
+      "title": "Table Talk with Leah",
+      "description": "Leah hosts guests at the table for engaging chats",
+      "images": [
+        {
+          "url": "https://98five.com/wp-content/uploads/2023/01/BJ_Square.jpg",
+          "type": "square",
+          "width": 1280,
+          "height": 1280
+        },
+        {
+          "url": "https://98five.com/wp-content/uploads/2023/01/BJ_Widescreen.png",
+          "type": "widescreen",
+          "width": 1280,
+          "height": 800
+        }
+      ],
+      "programmeId": "sttwlt23",
+      "startTime": "2023-01-27T10:00:00+08:00",
+      "endTime": "2023-01-27T12:00:00+08:00",
+      "duration": "02:00:00"
+    },
+    {
+      "episodes": [
+        {
+          "id": "BrekkyToday",
+          "seriesId": "Brekky",
+          "title": "Saturday With Lockie",
+          "description": "Saturday With Lockie",
+          "images": [
+            {
+              "url": "https://98five.com/wp-content/uploads/2023/01/KD_Square.jpg",
+              "type": "square",
+              "width": 1280,
+              "height": 1280
+            },
+            {
+              "url": "https://98five.com/wp-content/uploads/2023/01/KD_Widescreen.png",
+              "type": "widescreen",
+              "width": 1280,
+              "height": 800
+            }
+          ],
+          "programmeId": "bc96a2a0dfcd4348a2e0c1b067a947df",
+          "startTime": "2023-01-28T09:00:00+08:00",
+          "endTime": "2023-01-28T12:00:00+08:00",
+          "duration": "03:00:00"
+        },
+        {
+          "episodes": [
+            {
+              "id": "BrekkyToday",
+              "seriesId": "Brekky",
+              "title": "Sonshine's Kirste and Dan - NEW",
+              "description": "Join Kirste and Dan for Breakfast!",
+              "images": [
+                {
+                  "url": "https://98five.com/wp-content/uploads/2023/01/KD_Square.jpg",
+                  "type": "square",
+                  "width": 1280,
+                  "height": 1280
+                },
+                {
+                  "url": "https://98five.com/wp-content/uploads/2023/01/KD_Widescreen.png",
+                  "type": "widescreen",
+                  "width": 1280,
+                  "height": 800
+                }
+              ],
+              "programmeId": "bc96a2a0dfcd4348a2e0c1b067a947df",
+              "startTime": "2023-01-30T06:00:00+08:00",
+              "endTime": "2023-01-30T09:00:00+08:00",
+              "duration": "03:00:00"
+            },
+            {
+              "id": "DriveMonday",
+              "seriesId": "Drive",
+              "title": "Sonshine's Bec and Jeziel - NEW",
+              "description": "Join Bec and Jeziel for the Drive home",
+              "images": [
+                {
+                  "url": "https://98five.com/wp-content/uploads/2023/01/BJ_Square.jpg",
+                  "type": "square",
+                  "width": 1280,
+                  "height": 1280
+                },
+                {
+                  "url": "https://98five.com/wp-content/uploads/2023/01/BJ_Widescreen.png",
+                  "type": "widescreen",
+                  "width": 1280,
+                  "height": 800
+                }
+              ],
+              "programmeId": "sdwbj23",
+              "startTime": "2023-01-30T15:00:00+08:00",
+              "endTime": "2023-01-30T18:00:00+08:00",
+              "duration": "03:00:00"
+            },
+            {
+              "id": "Table Talk Monday",
+              "seriesId": "Table Talk",
+              "title": "Table Talk with Leah",
+              "description": "Leah hosts guests at the table for engaging chats",
+              "images": [
+                {
+                  "url": "https://98five.com/wp-content/uploads/2023/01/BJ_Square.jpg",
+                  "type": "square",
+                  "width": 1280,
+                  "height": 1280
+                },
+                {
+                  "url": "https://98five.com/wp-content/uploads/2023/01/BJ_Widescreen.png",
+                  "type": "widescreen",
+                  "width": 1280,
+                  "height": 800
+                }
+              ],
+              "programmeId": "sttwlt23",
+              "startTime": "2023-01-30T10:00:00+08:00",
+              "endTime": "2023-01-30T12:00:00+08:00",
+              "duration": "02:00:00"
+            },
+            {
+              "episodes": [
+                {
+                  "id": "BrekkyToday",
+                  "seriesId": "Brekky",
+                  "title": "Sonshine's Kirste and Dan - NEW",
+                  "description": "Join Kirste and Dan for Breakfast!",
+                  "images": [
+                    {
+                      "url": "https://98five.com/wp-content/uploads/2023/01/KD_Square.jpg",
+                      "type": "square",
+                      "width": 1280,
+                      "height": 1280
+                    },
+                    {
+                      "url": "https://98five.com/wp-content/uploads/2023/01/KD_Widescreen.png",
+                      "type": "widescreen",
+                      "width": 1280,
+                      "height": 800
+                    }
+                  ],
+                  "programmeId": "bc96a2a0dfcd4348a2e0c1b067a947df",
+                  "startTime": "2023-01-31T06:00:00+08:00",
+                  "endTime": "2023-01-31T09:00:00+08:00",
+                  "duration": "03:00:00"
+                },
+                {
+                  "id": "DriveMonday",
+                  "seriesId": "Drive",
+                  "title": "Sonshine's Bec and Jeziel - NEW",
+                  "description": "Join Bec and Jeziel for the Drive home",
+                  "images": [
+                    {
+                      "url": "https://98five.com/wp-content/uploads/2023/01/BJ_Square.jpg",
+                      "type": "square",
+                      "width": 1280,
+                      "height": 1280
+                    },
+                    {
+                      "url": "https://98five.com/wp-content/uploads/2023/01/BJ_Widescreen.png",
+                      "type": "widescreen",
+                      "width": 1280,
+                      "height": 800
+                    }
+                  ],
+                  "programmeId": "sdwbj23",
+                  "startTime": "2023-01-31T15:00:00+08:00",
+                  "endTime": "2023-01-31T18:00:00+08:00",
+                  "duration": "03:00:00"
+                },
+                {
+                  "id": "Table Talk Monday",
+                  "seriesId": "Table Talk",
+                  "title": "Table Talk with Leah",
+                  "description": "Leah hosts guests at the table for engaging chats",
+                  "images": [
+                    {
+                      "url": "https://98five.com/wp-content/uploads/2023/01/BJ_Square.jpg",
+                      "type": "square",
+                      "width": 1280,
+                      "height": 1280
+                    },
+                    {
+                      "url": "https://98five.com/wp-content/uploads/2023/01/BJ_Widescreen.png",
+                      "type": "widescreen",
+                      "width": 1280,
+                      "height": 800
+                    }
+                  ],
+                  "programmeId": "sttwlt23",
+                  "startTime": "2023-01-31T10:00:00+08:00",
+                  "endTime": "2023-01-31T12:00:00+08:00",
+                  "duration": "02:00:00"
+                },
+                {
+                  "episodes": [
+                    {
+                      "id": "BrekkyToday",
+                      "seriesId": "Brekky",
+                      "title": "Sonshine's Kirste and Dan - NEW",
+                      "description": "Join Kirste and Dan for Breakfast!",
+                      "images": [
+                        {
+                          "url": "https://98five.com/wp-content/uploads/2023/01/KD_Square.jpg",
+                          "type": "square",
+                          "width": 1280,
+                          "height": 1280
+                        },
+                        {
+                          "url": "https://98five.com/wp-content/uploads/2023/01/KD_Widescreen.png",
+                          "type": "widescreen",
+                          "width": 1280,
+                          "height": 800
+                        }
+                      ],
+                      "programmeId": "bc96a2a0dfcd4348a2e0c1b067a947df",
+                      "startTime": "2023-02-01T06:00:00+08:00",
+                      "endTime": "2023-02-01T09:00:00+08:00",
+                      "duration": "03:00:00"
+                    },
+                    {
+                      "id": "DriveMonday",
+                      "seriesId": "Drive",
+                      "title": "Sonshine's Bec and Jeziel - NEW",
+                      "description": "Join Bec and Jeziel for the Drive home",
+                      "images": [
+                        {
+                          "url": "https://98five.com/wp-content/uploads/2023/01/BJ_Square.jpg",
+                          "type": "square",
+                          "width": 1280,
+                          "height": 1280
+                        },
+                        {
+                          "url": "https://98five.com/wp-content/uploads/2023/01/BJ_Widescreen.png",
+                          "type": "widescreen",
+                          "width": 1280,
+                          "height": 800
+                        }
+                      ],
+                      "programmeId": "sdwbj23",
+                      "startTime": "2023-02-01T15:00:00+08:00",
+                      "endTime": "2023-02-01T18:00:00+08:00",
+                      "duration": "03:00:00"
+                    },
+                    {
+                      "id": "Table Talk Monday",
+                      "seriesId": "Table Talk",
+                      "title": "Table Talk with Leah",
+                      "description": "Leah hosts guests at the table for engaging chats",
+                      "images": [
+                        {
+                          "url": "https://98five.com/wp-content/uploads/2023/01/BJ_Square.jpg",
+                          "type": "square",
+                          "width": 1280,
+                          "height": 1280
+                        },
+                        {
+                          "url": "https://98five.com/wp-content/uploads/2023/01/BJ_Widescreen.png",
+                          "type": "widescreen",
+                          "width": 1280,
+                          "height": 800
+                        }
+                      ],
+                      "programmeId": "sttwlt23",
+                      "startTime": "2023-02-01T10:00:00+08:00",
+                      "endTime": "2023-02-01T12:00:00+08:00",
+                      "duration": "02:00:00"
+                    },
+                    {
+                      "episodes": [
+                        {
+                          "id": "BrekkyToday",
+                          "seriesId": "Brekky",
+                          "title": "Sonshine's Kirste and Dan - NEW",
+                          "description": "Join Kirste and Dan for Breakfast!",
+                          "images": [
+                            {
+                              "url": "https://98five.com/wp-content/uploads/2023/01/KD_Square.jpg",
+                              "type": "square",
+                              "width": 1280,
+                              "height": 1280
+                            },
+                            {
+                              "url": "https://98five.com/wp-content/uploads/2023/01/KD_Widescreen.png",
+                              "type": "widescreen",
+                              "width": 1280,
+                              "height": 800
+                            }
+                          ],
+                          "programmeId": "bc96a2a0dfcd4348a2e0c1b067a947df",
+                          "startTime": "2023-02-02T06:00:00+08:00",
+                          "endTime": "2023-02-02T09:00:00+08:00",
+                          "duration": "03:00:00"
+                        },
+                        {
+                          "id": "DriveMonday",
+                          "seriesId": "Drive",
+                          "title": "Sonshine's Bec and Jeziel - NEW",
+                          "description": "Join Bec and Jeziel for the Drive home",
+                          "images": [
+                            {
+                              "url": "https://98five.com/wp-content/uploads/2023/01/BJ_Square.jpg",
+                              "type": "square",
+                              "width": 1280,
+                              "height": 1280
+                            },
+                            {
+                              "url": "https://98five.com/wp-content/uploads/2023/01/BJ_Widescreen.png",
+                              "type": "widescreen",
+                              "width": 1280,
+                              "height": 800
+                            }
+                          ],
+                          "programmeId": "sdwbj23",
+                          "startTime": "2023-02-02T15:00:00+08:00",
+                          "endTime": "2023-02-02T18:00:00+08:00",
+                          "duration": "03:00:00"
+                        },
+                        {
+                          "id": "Table Talk Monday",
+                          "seriesId": "Table Talk",
+                          "title": "Table Talk with Leah",
+                          "description": "Leah hosts guests at the table for engaging chats",
+                          "images": [
+                            {
+                              "url": "https://98five.com/wp-content/uploads/2023/01/BJ_Square.jpg",
+                              "type": "square",
+                              "width": 1280,
+                              "height": 1280
+                            },
+                            {
+                              "url": "https://98five.com/wp-content/uploads/2023/01/BJ_Widescreen.png",
+                              "type": "widescreen",
+                              "width": 1280,
+                              "height": 800
+                            }
+                          ],
+                          "programmeId": "sttwlt23",
+                          "startTime": "2023-02-02T10:00:00+08:00",
+                          "endTime": "2023-02-02T12:00:00+08:00",
+                          "duration": "02:00:00"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
