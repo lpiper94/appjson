@@ -1,9 +1,9 @@
 ﻿{
   "episodes": [
     {
-      "id": "BrekkyMonday",
+      "id": "skdbs2023",
       "seriesId": "1",
-      "title": "Sonshine's Kirste and Dan - Monday",
+      "title": "Sonshine's Kirste and Dan",
       "description": "Join Kirste and Dan for Breakfast!",
       "images": [
         {
@@ -28,7 +28,7 @@
     {
     "id": "bc96a2a0dfcd4348a2e0c1b067a947df",
     "seriesId": "1",
-    "title": "Brekky",
+    "title": "Sonshine's Kirste and Dany",
     "description": "It's Kirste and Dan",
     "imageUrl": "http://two.aimdata.com/resources/sevenwest/images/defaultsydney7-blank.jpg"
     }    
